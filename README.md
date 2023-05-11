@@ -4,6 +4,3 @@
 
 Capitulo 8 aula 03
 
-...
-node app.js
-...
